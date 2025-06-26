@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi there, I'm Mohit!
 
-<!--
-**mohit-dwkr/mohit-dwkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a BCA student who loves building websites and learning new tech every day.  
+💻 Currently learning **HTML, CSS, JavaScript**, and working toward becoming a **Full-Stack Web Developer**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills & Tools
+
+- 🌐 HTML, CSS, JavaScript
+- 🛠️ Git & GitHub
+- 🖥️ VS Code
+
+---
+
+## 📌 Projects
+
+Check out my repositories to see my mini-projects and learning progress!  
+I'm uploading projects as I learn — feel free to explore and give feedback. 😊
+
+---
