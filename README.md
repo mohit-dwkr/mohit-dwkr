@@ -1,21 +1,24 @@
-# 👋 Hi there, I'm Mohit!
+# Hi 👋 I'm Mohit
 
-🎓 I'm a BCA student who loves building websites and learning new tech every day.  
-💻 Currently learning **HTML, CSS, JavaScript**, and working toward becoming a **Full-Stack Web Developer**.
+🎓 BCA Student | Full-Stack Developer  
+💡 Building real-world websites & business systems  
+
+## 🚀 Tech Stack
+- HTML
+- CSS
+- JavaScript
+- React.js
+- Tailwind CSS
+- Git & GitHub
+- Ai Tools
+  
+## 📌 What I Do
+I build modern, responsive websites and systems that solve real business problems and help brands grow.
+
+## 📈 Currently
+- Improving problem-solving skills  
+- Building advanced React projects  
+- Growing toward Full-Stack Development  
 
 ---
-
-## 🚀 Skills & Tools
-
-- 🌐 HTML, CSS, JavaScript
-- 🛠️ Git & GitHub
-- 🖥️ VS Code
-
----
-
-## 📌 Projects
-
-Check out my repositories to see my mini-projects and learning progress!  
-I'm uploading projects as I learn — feel free to explore and give feedback. 😊
-
----
+⭐ Check out my repositories to see my work!
